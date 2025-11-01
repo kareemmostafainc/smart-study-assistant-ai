@@ -1,0 +1,75 @@
+# ======================================================
+# Node.js and JavaScript Dependencies
+# ======================================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.env
+
+# ======================================================
+# Build Output and Temporary Files
+# ======================================================
+dist/
+build/
+tmp/
+temp/
+.cache/
+coverage/
+.DS_Store
+Thumbs.db
+
+# ======================================================
+# Logs
+# ======================================================
+logs/
+*.log
+logs/*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# ======================================================
+# Environment Files
+# ======================================================
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ======================================================
+# Python (AI Module)
+# ======================================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+.env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ======================================================
+# IDE and System Files
+# ======================================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# ======================================================
+# OS-Specific Files
+# ======================================================
+ehthumbs.db
+Icon?
+Desktop.ini
